@@ -6,11 +6,14 @@ my local branch changes go here
 howdy partna
 123
 456
-7890
+b
 abcdefg
 america
 blue
 changes coming
+6
+7
+8
 1
 2
 3
